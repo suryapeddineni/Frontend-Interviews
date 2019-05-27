@@ -1,5 +1,5 @@
 # Front-End-Interviews
-Frontend  Interview Questions and use full Links
+Frontend Interview Questions and use full Links
 
 # Questions you may get asked:
 
